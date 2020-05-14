@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         单号复制
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  用于批量复制第三方单号
 // @author       李远
 // @match        https://gsp.aliexpress.com/apps/order/index*
 //@require https://cdn.staticfile.org/jquery/3.5.1/jquery.min.js
+//@updateURL https://raw.githubusercontent.com/Yuan720/tampermonkey/master/%E5%A4%8D%E5%88%B6%E5%8D%95%E5%8F%B7.js
+//@downloadURL  https://raw.githubusercontent.com/Yuan720/tampermonkey/master/%E5%A4%8D%E5%88%B6%E5%8D%95%E5%8F%B7.js
 // ==/UserScript==
 (function() {
     'use strict';
